@@ -1,8 +1,8 @@
-# #100DaysOfCode
-# Round 1 Log Entry
+### #100DaysOfCode
+### Round 1 Log Entry
 
-## Name: Marvin Ogot
-## Date: Tuesday, October 20, 2026
+### Name: Marvin Ogot
+### Date: Tuesday, October 20, 2026
 
 ### Round 1 — Day 1 (Tuesday, October 20, 2026)
 
